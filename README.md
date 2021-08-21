@@ -3,8 +3,8 @@
 * 🔭 I’m currently working on Frontend
 * 🌱 I’m currently learning SQL
 
- <div margin="auto">
+ <div  style="display: flex">
   <a href="https://github.com/ericksilvadev">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=ericksilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="179em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksilvadev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>![react-original](https://user-images.githubusercontent.com/81652071/130314569-12e03692-cf50-422c-805b-e0acb8a3da81.png)
