@@ -7,13 +7,7 @@
   <img height="179em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksilvadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ericksilvadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericksilvadev" height="30" width="40" /></a>
-<a href="https://instagram.com/ericksilvadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ericksilvadev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div style="display: flex; justify-content: center" width: "100%">
  <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -48,3 +42,9 @@
   </a>
  </p>
 </div>
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ericksilvadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericksilvadev" height="30" width="40" /></a>
+<a href="https://instagram.com/ericksilvadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ericksilvadev" height="30" width="40" /></a>
+</p>
