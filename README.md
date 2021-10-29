@@ -6,6 +6,8 @@
     <img height="179em" width="51%" src="https://github-readme-stats.vercel.app/api?username=ericksilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img height="179em" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksilvadev&layout=compact&langs_count=7&theme=dracula" />
 </div>
+  
+---
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
@@ -76,8 +78,10 @@
     </a>
   </p>
 </div>
+  
+---
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/ericksilvadev" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
