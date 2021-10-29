@@ -7,9 +7,9 @@
     <img height="179em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksilvadev&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
-  <h3 align="center">Front-end:</h3>
+  <h3 align="center">Front-end</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -60,7 +60,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
     </a>
   </p>
-  <h3 align="center">Others:</h3>
+  <h3 align="center">Others</h3>
   <p>
     <a href="https://heroku.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
