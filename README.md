@@ -11,7 +11,7 @@
 <div align="center">
   <h3 align="center">Front-end</h3>
   <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" margin="1em">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
