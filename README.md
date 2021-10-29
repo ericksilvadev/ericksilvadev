@@ -1,4 +1,15 @@
-<h1 align="center">Hi, I'm Erick!</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1 align="center">Hi, I'm Erick!</h1>
   <h3 align="center">I'm a Brazillian frontend developer.</h3>
 
   <div>
@@ -8,7 +19,7 @@
   </div>
 
   <h3 align="center">Languages and Tools:</h3>
-  <div style="display: flex; justify-content: center" width="100%">
+  <div align="center" width="50%">
     <p align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -79,3 +90,7 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
         alt="ericksilvadev" height="30" width="40" /></a>
   </p>
+
+</body>
+
+</html>
