@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Erick!</h1>
 <h3 align="center">I'm a Brazillian frontend developer.</h3>
 
-<div>
-  <a href="https://github.com/ericksilvadev">
-    <img height="179em" width="51%" src="https://github-readme-stats.vercel.app/api?username=ericksilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="179em" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksilvadev&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
   <h3 align="center">Front-end</h3>
